@@ -39,7 +39,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>de.sschleis.app.Applictaion</mainClass>
+                    <mainClass>de.sschleis.app.Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>
